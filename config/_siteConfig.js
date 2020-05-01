@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Tech Afandi',
-  tagline: 'A Tech Blog for all new tehcnology content',
+  tagline: 'A Tech Blog for all new tehcnology different content',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
